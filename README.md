@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prince-SE-web
-- 👀 I’m interested in ...
+- 👀 I’m interested in Anime, new Technologies and playing sports.
 - 🌱 I’m currently learning Reactjs
 - 📫 You can contact me on LinkedIn 
 
